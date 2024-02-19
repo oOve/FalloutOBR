@@ -4,14 +4,14 @@
     "manifest_version": 1,
     "author": "o_Ove",
     "homepage_url": "https://github.com/oOve/FalloutOBR",
-    "icon": "/logo.png",
+    "icon": "./logo.png",
     "description": "The Fallout 2d20 dice",
     "action": {
       "title": "Dice",
-      "icon": "/pip_boy.svg",
+      "icon": "./pip_boy.svg",
       "popover": "/",
       "height": 700,
       "width": 375
     },
-    "background_url": "/background.html"
+    "background_url": "./background.html"
   }
