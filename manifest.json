@@ -9,7 +9,7 @@
     "action": {
       "title": "Dice",
       "icon": "/FalloutOBR/logo.svg",
-      "popover": "/",
+      "popover": "/FalloutOBR/background.html",
       "height": 700,
       "width": 375
     },
