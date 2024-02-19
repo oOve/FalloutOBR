@@ -10,8 +10,8 @@
       "title": "Dice",
       "icon": "/FalloutOBR/logo.svg",
       "popover": "/FalloutOBR/background.html",
-      "height": 700,
-      "width": 375
+      "height": 1024,
+      "width": 128
     },
     "background_url": "/FalloutOBR/background.html"
   }
