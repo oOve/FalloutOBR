@@ -1,4 +1,4 @@
-import OBR from "."
+import OBR from "@obr"
 
 
 
